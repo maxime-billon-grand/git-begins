@@ -1,4 +1,4 @@
-Pour cloner un repository de guthub sur la machine en local:
+Pour cloner un repository de guthub sur la machine en local :
 git clone <URL du directory> 
 Exemple pour cet exercice:
 git clone https://github.com/maxime-billon-grand/git-begins
@@ -15,3 +15,9 @@ git commit -m "Ajout de commands-git"
 -> git push origin main : pour envoyer ce qui est en local sur le serveur Github
 dans ce cas:
 git push origin main
+
+
+Pour récupérer les modifications faites sur Github sur la machine locale :
+git pull <URL du directory>
+dans ce cas: 
+git pull https://github.com/maxime-billon-grand/git-begins
