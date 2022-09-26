@@ -21,3 +21,15 @@ Pour récupérer les modifications faites sur Github sur la machine locale :
 git pull <URL du directory>
 dans ce cas: 
 git pull https://github.com/maxime-billon-grand/git-begins
+
+
+Pour créer une nouvelle branche :
+git branch <nom de la branche>
+dans ce cas:
+git branch add-create-branch-command*
+
+Pour switcher branche:
+git switch <nom de la branche>
+dans ce cas:
+git switch main    ou    git switch add-create-branch-command
+
